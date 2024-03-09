@@ -1,0 +1,26 @@
+[
+    {
+        "Kode": "BRG001",
+        "Nama": "HP",
+        "Harga": "123333",
+        "JenisId": "3"
+    },
+    {
+        "Kode": "BRG002",
+        "Nama": "LAPTOP",
+        "Harga": "20000",
+        "JenisId": "3"
+    },
+    {
+        "Kode": "BRG003",
+        "Nama": "MIE",
+        "Harga": "5000",
+        "JenisId": "2"
+    },
+    {
+        "Kode": "BRG004",
+        "Nama": "CELANA",
+        "Harga": "150000",
+        "JenisId": "1"
+    }
+]
