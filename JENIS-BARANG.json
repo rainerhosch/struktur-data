@@ -10,5 +10,9 @@
     {
         "Id": "3",
         "Nama": "ELEKTRONIK"
-    }
+    },
+	{
+        "Id": "4",
+        "Nama": "ALAT MANDI"
+	}
 ]
