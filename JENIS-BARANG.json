@@ -14,5 +14,13 @@
 	{
         "Id": "4",
         "Nama": "ALAT MANDI"
+	},
+	{
+        "Id": "5",
+        "Nama": "ALAT DAPUR"
+	},
+	{
+        "Id": "6",
+        "Nama": "ALAT PERTUKANGAN"
 	}
 ]
